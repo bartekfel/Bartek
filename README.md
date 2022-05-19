@@ -1,0 +1,2 @@
+# Bartek
+algorytmy
